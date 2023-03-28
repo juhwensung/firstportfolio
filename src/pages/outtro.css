@@ -1,0 +1,51 @@
+.outtro {
+  background-color: #526d72;
+}
+
+.outtitle {
+  text-align: center;
+  margin-top: 0;
+}
+
+.headwrite {
+  margin-left: 15rem;
+}
+
+.bodywrite {
+  margin-left: 15rem;
+}
+
+.subtitle {
+  margin-left: 15rem;
+  margin-top: 3rem;
+}
+
+.button {
+  border: 0;
+  background-color: #526d72;
+  margin-left: 15rem;
+}
+
+.contact {
+  border: 0;
+  background-color: #526d72;
+  margin-left: 15rem;
+  margin-bottom: 10rem;
+}
+
+.linkicon {
+  width: 50px;
+  height: 50px;
+}
+
+.iconname {
+  display: none;
+}
+
+.button:hover {
+  color: skyblue;
+}
+
+.contact:hover {
+  color: skyblue;
+}
